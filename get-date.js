@@ -1,4 +1,6 @@
-
+const getDate = function(input){
+  return input[3]
+}
 
 
 if (typeof getDate === 'undefined') {

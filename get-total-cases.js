@@ -1,6 +1,6 @@
-
-
-
+const getTotalCases = function(input){
+  return input[4]
+}
 
 
 

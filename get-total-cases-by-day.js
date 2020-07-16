@@ -1,4 +1,11 @@
+const getTotalCasesByDay = function(date, array){
+  for (arr of array){
+    if(date === arr[3]){
+      return arr[4]
+    }
+  }
 
+}
 
 
 

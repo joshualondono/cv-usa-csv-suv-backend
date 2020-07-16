@@ -1,4 +1,6 @@
-
+const getNewCases = function(input){
+  return input[5]
+}
 
 
 

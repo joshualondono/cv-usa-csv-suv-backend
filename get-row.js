@@ -1,4 +1,6 @@
-
+const getRow = function(input){
+  return input.split(',')
+}
 
 
 
